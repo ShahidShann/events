@@ -1,0 +1,7 @@
+# vsim merge_events1 merge_events.log -c -do "run -all;quit;" 
+# Start time: 21:45:11 on Nov 15,2022
+# ** Error (suppressible): (vsim-19) Failed to access library 'merge_events' at "merge_events".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 21:45:11 on Nov 15,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0

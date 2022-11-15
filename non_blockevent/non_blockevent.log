@@ -1,0 +1,28 @@
+# vsim work.non_blockevent -l non_blockevent.log -c -do "run -all;quit;" 
+# Start time: 23:03:02 on Nov 15,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# //  Questa Sim
+# //  Version 10.6c linux Jul 25 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.non_blockevent(fast)
+# run -all
+#                    0	 triggering the event
+#                    0	 waiting for the event using wait
+#                    0	 waiting for the event using @
+#                    0	 event BJT is triggered using @
+#                    0	 event BJT is triggered using wait
+# quit
+# End time: 23:03:03 on Nov 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
